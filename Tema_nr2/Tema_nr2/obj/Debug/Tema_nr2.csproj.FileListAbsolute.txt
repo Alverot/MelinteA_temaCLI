@@ -1,0 +1,15 @@
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\bin\Debug\Tema_nr2.exe.config
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\bin\Debug\Tema_nr2.exe
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\bin\Debug\Tema_nr2.pdb
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\bin\Debug\OpenTK.dll
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\bin\Debug\OpenTK.GLControl.dll
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\bin\Debug\OpenTK.pdb
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\bin\Debug\OpenTK.xml
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\bin\Debug\OpenTK.GLControl.xml
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\obj\Debug\Tema_nr2.csproj.AssemblyReference.cache
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\obj\Debug\Tema_nr2.csproj.SuggestedBindingRedirects.cache
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\obj\Debug\Tema_nr2.exe.config
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\obj\Debug\Tema_nr2.csproj.CoreCompileInputs.cache
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\obj\Debug\Tema_nr2.csproj.Up2Date
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\obj\Debug\Tema_nr2.exe
+D:\Developement\C#\TemaLabOPGL\TemaLab2\Tema_nr2\Tema_nr2\obj\Debug\Tema_nr2.pdb

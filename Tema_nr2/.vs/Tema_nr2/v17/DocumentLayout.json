@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Developement\\C#\\TemaLabOPGL\\TemaLab2\\Tema_nr2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84533B5A-215E-4E8B-B24D-D680433C5494}|Tema_nr2\\Tema_nr2.csproj|d:\\developement\\c#\\temalabopgl\\temalab2\\tema_nr2\\tema_nr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84533B5A-215E-4E8B-B24D-D680433C5494}|Tema_nr2\\Tema_nr2.csproj|solutionrelative:tema_nr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Developement\\C#\\TemaLabOPGL\\TemaLab2\\Tema_nr2\\Tema_nr2\\Program.cs",
+              "RelativeDocumentMoniker": "Tema_nr2\\Program.cs",
+              "ToolTip": "D:\\Developement\\C#\\TemaLabOPGL\\TemaLab2\\Tema_nr2\\Tema_nr2\\Program.cs",
+              "RelativeToolTip": "Tema_nr2\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:17:54.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

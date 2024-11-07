@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9C86D4-3294-410B-A4DA-19AB92CA0BB9}|Tema_4\\Tema_4.csproj|D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\tema_4\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9C86D4-3294-410B-A4DA-19AB92CA0BB9}|Tema_4\\Tema_4.csproj|solutionrelative:tema_4\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9C86D4-3294-410B-A4DA-19AB92CA0BB9}|Tema_4\\Tema_4.csproj|D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\tema_4\\window3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9C86D4-3294-410B-A4DA-19AB92CA0BB9}|Tema_4\\Tema_4.csproj|solutionrelative:tema_4\\window3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9C86D4-3294-410B-A4DA-19AB92CA0BB9}|Tema_4\\Tema_4.csproj|d:\\github\\melintea_temacli\\tema_nr4\\tema_4\\tema_4\\objectoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9C86D4-3294-410B-A4DA-19AB92CA0BB9}|Tema_4\\Tema_4.csproj|solutionrelative:tema_4\\objectoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9C86D4-3294-410B-A4DA-19AB92CA0BB9}|Tema_4\\Tema_4.csproj|D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\tema_4\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9C86D4-3294-410B-A4DA-19AB92CA0BB9}|Tema_4\\Tema_4.csproj|solutionrelative:tema_4\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Objectoid.cs",
+              "DocumentMoniker": "D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\Tema_4\\Objectoid.cs",
+              "RelativeDocumentMoniker": "Tema_4\\Objectoid.cs",
+              "ToolTip": "D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\Tema_4\\Objectoid.cs",
+              "RelativeToolTip": "Tema_4\\Objectoid.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:53:25.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\Tema_4\\Camera.cs",
+              "RelativeDocumentMoniker": "Tema_4\\Camera.cs",
+              "ToolTip": "D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\Tema_4\\Camera.cs",
+              "RelativeToolTip": "Tema_4\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:06:02.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Randomizer.cs",
+              "DocumentMoniker": "D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\Tema_4\\Randomizer.cs",
+              "RelativeDocumentMoniker": "Tema_4\\Randomizer.cs",
+              "ToolTip": "D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\Tema_4\\Randomizer.cs",
+              "RelativeToolTip": "Tema_4\\Randomizer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAD4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:22:23.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window3D.cs",
+              "DocumentMoniker": "D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\Tema_4\\Window3D.cs",
+              "RelativeDocumentMoniker": "Tema_4\\Window3D.cs",
+              "ToolTip": "D:\\GITHUB\\MelinteA_temaCLI\\Tema_nr4\\Tema_4\\Tema_4\\Window3D.cs",
+              "RelativeToolTip": "Tema_4\\Window3D.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAqwBMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:29:48.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

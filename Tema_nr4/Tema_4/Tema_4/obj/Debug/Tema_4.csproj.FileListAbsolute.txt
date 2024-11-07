@@ -1,0 +1,13 @@
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\obj\Debug\Tema_4.csproj.AssemblyReference.cache
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\obj\Debug\Tema_4.csproj.CoreCompileInputs.cache
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\bin\Debug\Tema_4.exe.config
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\bin\Debug\Tema_4.exe
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\bin\Debug\Tema_4.pdb
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\bin\Debug\OpenTK.dll
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\bin\Debug\OpenTK.GLControl.dll
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\bin\Debug\OpenTK.pdb
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\bin\Debug\OpenTK.xml
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\bin\Debug\OpenTK.GLControl.xml
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\obj\Debug\Tema_4.csproj.Up2Date
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\obj\Debug\Tema_4.exe
+D:\GITHUB\MelinteA_temaCLI\Tema_nr4\Tema_4\Tema_4\obj\Debug\Tema_4.pdb

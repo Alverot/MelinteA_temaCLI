@@ -1,0 +1,15 @@
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\bin\Debug\Tema_nr5.exe.config
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\bin\Debug\Tema_nr5.exe
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\bin\Debug\Tema_nr5.pdb
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\bin\Debug\OpenTK.dll
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\bin\Debug\OpenTK.GLControl.dll
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\bin\Debug\OpenTK.pdb
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\bin\Debug\OpenTK.xml
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\bin\Debug\OpenTK.GLControl.xml
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\obj\Debug\Tema_nr5.csproj.AssemblyReference.cache
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\obj\Debug\Tema_nr5.csproj.SuggestedBindingRedirects.cache
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\obj\Debug\Tema_nr5.exe.config
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\obj\Debug\Tema_nr5.csproj.CoreCompileInputs.cache
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\obj\Debug\Tema_nr5.csproj.Up2Date
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\obj\Debug\Tema_nr5.exe
+D:\GITHUB\MelinteA_temaCLI\Tema_nr5\Tema_nr5\obj\Debug\Tema_nr5.pdb
